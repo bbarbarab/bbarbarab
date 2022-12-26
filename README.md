@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbarbarab
-- 👀 I’m interested in python, databases (postgresql, mysql), mailserver, free software
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python, django, databases (postgresql, mysql), mailserver, free software
+- 🌱 I’m currently learning python and django
 - 💞️ I’m looking to collaborate on python+django+postgresql, django+geolocation
 - 📫 How to reach me barbara@net4wing.com
 
