@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bbarbarab
-- 👀 I’m interested in python, django, databases (postgresql, mysql), mailserver, free software
+- 👀 I’m interested in python, django, databases (postgresql, mysql), mailserver, metadata, digital libraries, METS ECO-MiC, free software, 
 - 🌱 I’m currently learning python and django
-- 💞️ I’m looking to collaborate on python+django+postgresql, django+geolocation
+- 💞️ I’m looking to collaborate on metadata, digital libraries, METS ECO-MiC, python+django+postgresql, django+geolocation
 - 📫 How to reach me barbara@net4wing.com
 
 <!---
